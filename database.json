@@ -1,13 +1,5 @@
 {
-  "allowedIps": ["172.18.0.41", "172.18.0.41"],
-  "users": [
-    {
-      "username": "ZanssMods",
-      "password": "gen11gg"
-    },
-    {
-      "username": "ZanssTzy",
-      "password": "apahayoh?"
-    }
+  "tokens": [
+    "7891420579:AAELRNs_SRJHzWbTU57t-G7Z3JXuV1-_Cb0"
   ]
 }
